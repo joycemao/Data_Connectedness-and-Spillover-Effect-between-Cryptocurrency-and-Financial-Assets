@@ -1,6 +1,5 @@
 # Data_Connectedness-and-Spillover-Effect-between-Cryptocurrency-and-Financial-Assets
 Datas used in &lt;Connectedness and Spillover Effect between Cryptocurrency and Financial Assets>
-## Abstract
 ## There're two csv files, one imagine for data-permission provement and this readme file in the project.
 
 ### Two csv files : The data named'return' include the stock return data used in < Connectedness-and-Spillover-Effect-between-Cryptocurrency-and-Financial-Assets >, and the 'volatility'data represent the the volatility return data used in it.
